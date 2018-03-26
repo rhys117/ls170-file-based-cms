@@ -1,0 +1,23 @@
+body {
+  padding: 1em;
+  font-family: sans-serif;
+}
+
+.success {
+  padding: 10px;
+  background: green;
+}
+
+.error {
+  padding: 10px;
+  background: red;
+}
+
+.inline {
+  display: inline;
+}
+
+.user-status {
+  font-style: italic;
+  font-size: 0.9em;
+}
